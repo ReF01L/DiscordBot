@@ -1,0 +1,2 @@
+WANNA_CS = '!GCS'
+WANNA_DOTA = '!GD2'
